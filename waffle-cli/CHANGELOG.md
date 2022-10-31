@@ -1,5 +1,20 @@
 # ethereum-waffle
 
+## 4.0.8
+
+### Patch Changes
+
+- a0f721a: Move ethers to peer deps
+- Updated dependencies [9602243]
+- Updated dependencies [64707ae]
+- Updated dependencies [ee1d1b8]
+- Updated dependencies [a0f721a]
+- Updated dependencies [f6d240e]
+  - @ethereum-waffle/chai@4.0.8
+  - @ethereum-waffle/provider@4.0.5
+  - @ethereum-waffle/compiler@4.0.3
+  - @ethereum-waffle/mock-contract@4.0.3
+
 ## 4.0.7
 
 ### Patch Changes

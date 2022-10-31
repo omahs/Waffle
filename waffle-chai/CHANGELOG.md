@@ -1,5 +1,17 @@
 # @ethereum-waffle/chai
 
+## 4.0.8
+
+### Patch Changes
+
+- 9602243: 👔 revertedWith().withArgs no longer fails for uint values exceeding JavaScript's max int limit
+- 64707ae: Allow special characters in revertedWith regex
+- a0f721a: Move ethers to peer deps
+- f6d240e: 🛶 Updates for hardhat v2.11
+- Updated dependencies [ee1d1b8]
+- Updated dependencies [a0f721a]
+  - @ethereum-waffle/provider@4.0.5
+
 ## 4.0.7
 
 ### Patch Changes
